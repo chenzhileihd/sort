@@ -73,6 +73,7 @@ void guibing(int *test,int p,int r)
     guibing(test,q+1,r);
     merge(test,p,r);
 }
+//test
 int main(int argc, const char * argv[]) {
     // insert code here...
     printf("Hello, World!\n");
